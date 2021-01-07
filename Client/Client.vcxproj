@@ -129,7 +129,7 @@
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
       <CompileAsWinRT>true</CompileAsWinRT>
-      <AdditionalUsingDirectories>C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.19041.0;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\VC\vcpackages;%(AdditionalUsingDirectories)</AdditionalUsingDirectories>
+      <AdditionalUsingDirectories>C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.19041.0;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\VC\vcpackages;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\vcpackages;%(AdditionalUsingDirectories)</AdditionalUsingDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
